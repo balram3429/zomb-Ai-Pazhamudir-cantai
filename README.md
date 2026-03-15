@@ -14,7 +14,7 @@ A simple and elegant tool to help farmers identify the **best markets to sell th
  ███╔╝  ██║   ██║██║╚██╔╝██║██╔══██╗     ██╔══██║██║
 ███████╗╚██████╔╝██║ ╚═╝ ██║██████╔╝     ██║  ██║██║
 ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝      ╚═╝  ╚═╝╚═╝
-         IPL ORACLE · POWERED BY ZOMBAI · @balram3429
+                   · POWERED BY ZOMBAI · @balram3429
 ```
 
 ---
